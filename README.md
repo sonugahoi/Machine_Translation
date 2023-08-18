@@ -1,5 +1,5 @@
 # Machine Translation of Dates with Attention  | Self Project
-
+Name - Sachin Gupta
 CV points are
 
 1. Applied attention mechanism with long short-term memory(LSTM) to improve performance on date dataset],
